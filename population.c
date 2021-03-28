@@ -29,7 +29,7 @@ int main(void)
 
     while (population < End_Size)
     {
-        population = population + (population/3) - (population/4);
+        population = population + (population / 3) - (population / 4);
         years++;
     }
 
